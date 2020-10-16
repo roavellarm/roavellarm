@@ -2,10 +2,10 @@
 
 ### **About me** ℹ️
 
-• I'm a huge technology enthusiastic.<br/>
+• I'm a huge technology enthusiastic<br/>
 • I'm currently immersed in **JS, NodeJS**, **React** and **React Native**<br/>
-• I have around 2 years of experience developing APIs with **Ruby** and **Ruby on Rails**.<br/>
-• I'm a **TDD** and **automated tests** fan.
+• I have around 2 years of experience developing APIs with **Ruby** and **Ruby on Rails**<br/>
+• I'm a **TDD** and **automated tests** fan
 
 ### **Contact me** 📡
 
@@ -15,7 +15,7 @@
 
 ### **Some of my public stats** 📊
 
-![](https://github-readme-stats.vercel.app/api?username=roavellarm&show_icons=true&theme=darcula&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=roavellarm&show_icons=true&hide_title=true&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roavellarm&layout=compact&theme=darcula)
 
 
