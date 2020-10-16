@@ -15,7 +15,7 @@
 
 ### **Some of my public stats** 📊
 
-![](https://github-readme-stats.vercel.app/api?username=roavellarm&show_icons=true&hide_title=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=roavellarm&show_icons=true&hide_title=true&theme=darcula)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roavellarm&layout=compact&theme=darcula)
 
 
