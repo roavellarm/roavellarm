@@ -1,8 +1,34 @@
-### Hi there 👋
+# 🖖 Hey, welcome visitor!
+
+### **About me** ℹ️
+
+• I'm a huge technology enthusiastic.<br/>
+• I'm currently immersed in **JS, NodeJS**, **React** and **React Native**<br/>
+• I have around 2 years of experience developing APIs with **Ruby** and **Ruby on Rails**.<br/>
+• I'm a **TDD** and **automated tests** fan.
+
+<br />
+
+### **Contact me** 📡
+
+[![gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ramprofissional@gmail.com)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rodrigo-avellar/)
+[![insta](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/platypluswings/)
+
+<br />
+
+### **Some of my public stats** 📊
+
+![](https://github-readme-stats.vercel.app/api?username=roavellarm&show_icons=true&theme=darcula&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roavellarm&layout=compact&theme=darcula)
+
+[![bmc][buymeacoffee-shield]][buymeacoffee]
+
+[buymeacoffee]: https://www.buymeacoffee.com/rodrigoavellar
+[buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png
+
 
 <!--
-**roavellarm/roavellarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
