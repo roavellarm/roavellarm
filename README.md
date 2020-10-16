@@ -1,4 +1,4 @@
-# 🖖 Hey, welcome visitor!
+## 🖖 Welcome, visitor!
 
 ### **About me** ℹ️
 
@@ -7,20 +7,17 @@
 • I have around 2 years of experience developing APIs with **Ruby** and **Ruby on Rails**.<br/>
 • I'm a **TDD** and **automated tests** fan.
 
-<br />
-
 ### **Contact me** 📡
 
 [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ramprofissional@gmail.com)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rodrigo-avellar/)
 [![insta](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/platypluswings/)
 
-<br />
-
 ### **Some of my public stats** 📊
 
 ![](https://github-readme-stats.vercel.app/api?username=roavellarm&show_icons=true&theme=darcula&hide_title=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roavellarm&layout=compact&theme=darcula)
+
 
 [![bmc][buymeacoffee-shield]][buymeacoffee]
 
