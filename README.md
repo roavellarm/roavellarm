@@ -11,7 +11,7 @@
 
 [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ramprofissional@gmail.com)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rodrigo-avellar/)
-[![insta](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/platypluswings/)
+[![insta](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/platypus_wings/)
 
 ### **Some of my public stats** 📊
 
