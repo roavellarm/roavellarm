@@ -2,10 +2,7 @@
 
 ### **About me** ℹ️
 
-• I'm a huge technology enthusiastic<br/>
-• I'm currently immersed in **JS, NodeJS**, **React** and **React Native**<br/>
-• I have around 2 years of experience developing APIs with **Ruby** and **Ruby on Rails**<br/>
-• I'm a **TDD** and **automated tests** fan
+I'm a huge technology enthusiastic. I'm currently immersed in **JS, NodeJS**, **React** and **React Native**. I have some previous experience developing APIs with **Ruby** and **Ruby on Rails**.
 
 ### **Contact me** 📡
 
@@ -17,23 +14,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=roavellarm&show_icons=true&hide_title=true&theme=darcula)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roavellarm&layout=compact&theme=darcula)
-
-
-[![bmc][buymeacoffee-shield]][buymeacoffee]
-
-[buymeacoffee]: https://www.buymeacoffee.com/rodrigoavellar
-[buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
